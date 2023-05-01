@@ -154,7 +154,7 @@ for xd in range(10000):
     l='Chrome/107.0.0.0 Mobile Safari/537.36'
     uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uaku2)
-os.system('xdg-open https://github.com/tafif-r-choyon')
+os.system('xdg-open https://github.com/tafif-r-chiyon')
 
 logo = ("""
 
@@ -205,7 +205,7 @@ class Main:
         print(" [02] MY fACEBOOK ACCOUNT  \033[1;35m")
         print(" [00] Exit")        
         Alif =input(" [?] Choose : ")
-        os.system('xdg-open https://facebook.com/groups/1184701498826324/')
+        os.system('xdg-open https://www.facebook.com/tafifrchoyon?mibextid=ZbWKwL')
         if Alif in ["1", "01"]:
             num()
         if Alif in ["2","02"]:
