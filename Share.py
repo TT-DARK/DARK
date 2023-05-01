@@ -1,5 +1,5 @@
-# ENCRYPTED BY : IN.DARK
-# GITHUB : https://github.com/tafif-r-chiyon
+# ENCRYPTED BY : TT-DARK
+# GITHUB : https://github.com/TT-DARK
 
 
 import marshal
