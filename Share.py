@@ -1,5 +1,5 @@
-# ENCRYPTED BY : U7P4L IN
-# GITHUB : https://github.com/U7P4L-IN
+# ENCRYPTED BY : IN.DARK
+# GITHUB : https://github.com/tafif-r-chiyon
 
 
 import marshal
