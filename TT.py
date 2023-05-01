@@ -185,7 +185,7 @@ $$$$$$$/  $$/   $$/ $$/   $$/ $$/   $$/
                                                                                                
 \033[1;94m       [+]===============================================[+]
 \033[1;94m       [+]        CREATED BY   :  IN.DARK                \033[1;94m[+]
-\033[1;94m       [+]        ON GITHUB    :  tafif-r-choyon         \033[1;94m[+]
+\033[1;94m       [+]        ON GITHUB    :  TT-DARK                \033[1;94m[+]
 \033[1;94m       [+]        TEAM         :  ANONYMOUS CYBER        \033[1;94m[+]
 \033[1;94m       [+]        TOOL VERSION :  0.5                    \033[1;94m[+]
 \033[1;94m       [+]        TOOL STATUS  :  RANDOM CLONING         \033[1;94m[+]
