@@ -209,7 +209,7 @@ class Main:
         if Alif in ["1", "01"]:
             num()
         if Alif in ["2","02"]:
-            os.system('xdg-open https://facebook.com/utpalcyber')
+            os.system('xdg-open https://www.facebook.com/tafifrchoyon?mibextid=ZbWKwL')
         if Alif in [" 0", "00"]:
             exit()
         else:
