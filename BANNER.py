@@ -41,14 +41,14 @@ echo
 
  echo "  < ━━━━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━━━━ >   " |lolcat
 echo
-    echo "  WE ARE ANONYMOUS" |lolcat
+    echo "  HELLO TT DARK" |lolcat
 '''
 
 bashrc2 = '''
 echo "
-                WE DO NOT HACK TO IMPRESS
-                   WE HACK TO EXPRESS.....
-  < ━━━━━━━━━━━ [★]ANONYMOUS HACKER[★] ━━━━━━━━━━━━ > " |lolcat
+                  YOU ARE NOT A HACKER 🥱🥱
+               YOU ARE A KING OF THE HACKING.....
+  < ━━━━━━━━━━━━ [★]KING OF HACKER[★] ━━━━━━━━━━━━ > " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
