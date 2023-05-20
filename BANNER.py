@@ -46,7 +46,7 @@ echo
 
 bashrc2 = '''
 echo "
-                  YOU ARE NOT A HACKER 🥱🥱
+                    YOU ARE NOT A HACKER
                YOU ARE A KING OF THE HACKING.....
   < ━━━━━━━━━━━━ [★]KING OF HACKER[★] ━━━━━━━━━━━━ > " |lolcat
 
