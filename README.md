@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Facebook**
 
-- 📫 How to reach me **mdb308762@gmail.com**
+- 📫 How to reach me **let's contact me on facebook messenger **
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am not a joker i am a hacking developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
