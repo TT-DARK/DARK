@@ -154,7 +154,7 @@ for xd in range(10000):
     l='Chrome/107.0.0.0 Mobile Safari/537.36'
     uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
     ugen.append(uaku2)
-os.system('xdg-open https://github.com/U7P4L-IN')
+os.system('xdg-open https://github.com/TT-DARK')
 
 logo = ("""
 
